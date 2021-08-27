@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "nodejs-api-rest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jacksonlmp/nodejs-api-rest.git"
   },
-  "author": "jackson lima",
+  "author": "Jackson Lima",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jacksonlmp/nodejs-api-rest/issues"

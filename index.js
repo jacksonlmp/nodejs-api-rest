@@ -1,5 +1,4 @@
-const express = require('express')
-const app = express()
+const customExpress = require('./config/customExpress')
+const app = customExpress()
 
 app.listen(4000, () => console.log('Rodando na 4000'))
-app.get('/', (req, res) => res.send('Rodando All e FLYING') )
